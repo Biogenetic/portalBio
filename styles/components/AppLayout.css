@@ -1,0 +1,10 @@
+
+
+.app-sider {
+  background: #fff !important;
+}
+
+.ant-layout.ant-layout-has-sider {
+  min-height: 100vh;
+  background-color: #fff;
+}

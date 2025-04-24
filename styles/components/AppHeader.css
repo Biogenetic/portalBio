@@ -1,0 +1,36 @@
+
+.header-dropdown {
+    display: flex;
+    float: right;
+    height: 48px;
+    margin-left: auto;
+    margin-right: 24px;
+}
+
+.header-dropdown-user-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0 12px;
+    cursor: pointer;
+}
+
+.header-dropdown-user-info span {
+    color: #ffff;
+    margin-left: 8px;
+}
+
+
+.app-header {
+    background: #004ba7 !important;
+}
+  
+.trigger {
+margin-left: 24px;
+}
+
+.trigger svg {
+color: #fff;
+font-size: 20px;
+}

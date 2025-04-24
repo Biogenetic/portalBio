@@ -1,0 +1,54 @@
+
+.login-header {
+    background: #fff !important;
+}
+  
+.go-to-biogenetics{
+    float: left;
+    margin-top: -32px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #004ba7;
+    padding-right: "8px";
+    text-decoration: underline;
+}
+
+.go-to-biogenetics-mobile-container {
+    text-align: center;
+    padding-bottom: 1rem;
+    margin-top: 38px;
+}
+
+.go-to-biogenetics-mobile-link {
+    color: #647390;
+    font-size: .75rem;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.login-layout-footer {
+    position: absolute;
+    bottom: 0;
+}
+
+.login-layout-footer-left {     
+    left: 0;
+}
+
+.login-layout-footer-right {     
+    right: 0;
+}
+
+.login-title {
+    color : #004ba7;
+    font-size: 2rem;
+    text-align: left;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+}
+
+.login-sub-title {
+    color: #004ba7;
+    margin-bottom: 16px;
+    font-size: 16px;
+}

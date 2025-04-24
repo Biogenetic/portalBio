@@ -1,0 +1,12 @@
+@import '~antd/dist/antd.css';
+@import 'antd-button-color/dist/css/style.css';
+
+@import './components/AppLayout.css';
+@import './components/AppHeader.css';
+@import './components/AppCard.css';
+@import './components/DashboardLabel.css';
+@import './components/Logo.css';
+@import './components/auth/ChangePasswordModal.css';
+@import './components/auth/LoginLayout.css';
+
+

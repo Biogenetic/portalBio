@@ -1,0 +1,20 @@
+
+.logo {
+    padding-left: 25px;
+    height: 32px;
+    margin: 16px;
+  }
+
+
+.login-logo {    
+  text-align: center;
+  height: 32px;  
+}
+
+.logo-collepsed {
+  padding-left: 5px;
+}
+
+.logo-collepsed-img {
+  width: 35px;
+}

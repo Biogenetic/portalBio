@@ -1,0 +1,16 @@
+.label-title {
+    font-size: .875rem;
+    margin: 0;
+    color: #647390;
+    line-height: 1.5;
+    font-weight: 700;
+}
+
+.label-value {
+    font-size: 1rem;
+    margin: 0;
+    padding-bottom: 1.5rem;
+    color: #414141;
+    line-height: 1.5;
+    font-weight: 600;
+}

@@ -1,0 +1,11 @@
+
+.ant-card-head {
+    border-bottom: 1px solid #bfbfbf !important;
+}
+
+.ant-card-head-title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #54575f;
+    padding: 12px 0;
+}
