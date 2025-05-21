@@ -28,4 +28,7 @@
     "eslint": "8.20.0",
     "eslint-config-next": "12.2.2"
   }
+  "scripts": {
+  "start": "next start -p 80"
+}
 }
