@@ -20,4 +20,4 @@ COPY --from=builder /app/node_modules ./node_modules
 COPY --from=builder /app/package.json ./package.json
 
 EXPOSE 80
-CMD ["npm", "start"]
+CMD ["sh", "-c", "PORT=80 npm start"]
